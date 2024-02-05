@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "bluetooth.h": "c",
+        "util.h": "c",
+        "hci.h": "c",
+        "addr.h": "c"
+    }
+}
